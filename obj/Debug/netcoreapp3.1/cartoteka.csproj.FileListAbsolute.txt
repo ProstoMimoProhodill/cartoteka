@@ -1,0 +1,11 @@
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\bin\Debug\netcoreapp3.1\cartoteka.exe
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\bin\Debug\netcoreapp3.1\cartoteka.deps.json
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\bin\Debug\netcoreapp3.1\cartoteka.runtimeconfig.json
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\bin\Debug\netcoreapp3.1\cartoteka.runtimeconfig.dev.json
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\bin\Debug\netcoreapp3.1\cartoteka.dll
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\bin\Debug\netcoreapp3.1\cartoteka.pdb
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\obj\Debug\netcoreapp3.1\cartoteka.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\obj\Debug\netcoreapp3.1\cartoteka.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\obj\Debug\netcoreapp3.1\cartoteka.dll
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\obj\Debug\netcoreapp3.1\cartoteka.pdb
+C:\Users\Andrey\source\repos\cartoteka\cartoteka\obj\Debug\netcoreapp3.1\cartoteka.csprojAssemblyReference.cache
